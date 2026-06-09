@@ -27,7 +27,7 @@ Join our active Discord workspace for discussions, questions, and announcements:
 ### Mailing List
 Stay updated with weekly digests and session reminders:
 
-[Subscribe to Mailing List →](https://listas.csic.es/wws/info/pml_reading_club){: .btn .btn-blue }
+[Subscribe to Mailing List →](https://listas.csic.es/wws/subscribe/rl_reading_group?previous_action=edit_list_request){: .btn .btn-blue }
 
 ### GitHub
 Contribute to our materials, suggest improvements, or report issues:
