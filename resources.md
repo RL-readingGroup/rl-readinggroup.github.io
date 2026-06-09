@@ -29,12 +29,6 @@ Materials from past reading group sessions will appear here as the group progres
 ### 📖 Core Textbooks & References
 - [Reinforcement Learning: An Introduction (Sutton & Barto)](http://incompleteideas.net/book/the-book-2nd.html) — The foundational RL textbook
 - [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/) — Comprehensive MARL reference
-- [Algorithms for Decision Making (Kochenderfer et al.)](https://algorithmsbook.com/decisionmaking/) — Decision-making under uncertainty
-
-### 🔗 Useful Links
-- [OpenAI Spinning Up in Deep RL](https://spinningup.openai.com/) — Practical deep RL introduction
-- [CleanRL](https://github.com/vwxyzjn/cleanrl) — High-quality single-file RL implementations
-- [PettingZoo](https://pettingzoo.farama.org/) — Multi-agent environment library
 
 ### Datalab Past Reading Groups
 - [Intro to ML](https://datalab-icmat.github.io/courses_stats.html#Introduction_to_Machine_Learning)
