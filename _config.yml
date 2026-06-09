@@ -1,0 +1,53 @@
+title: "RL Reading Group"
+description: "A reading group focused on Reinforcement Learning, MARL, and sequential decision-making."
+url: "https://rl-readinggroup.github.io"
+remote_theme: just-the-docs/just-the-docs
+
+# Logo - disabled for now (PML book cover removed)
+# logo: "assets/images/book-cover.jpg"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude: []
+
+# Theme Customization
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+# Footer
+footer_content: "Copyright &copy; 2025 Reinforcement Learning & MARL Reading Group. Distributed under the <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0 License</a>."
+
+# Callouts
+callouts_level: loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+# Aux links
+aux_links:
+  "GitHub":
+    - "https://github.com/RL-readingGroup"
+  "Discord":
+    - "https://discord.gg/G9cztJCvyP"
+
+# Custom CSS (relative to /assets/css/)
+aux_links_new_tab: false
+
+# Navigation structure
+nav_order: 1

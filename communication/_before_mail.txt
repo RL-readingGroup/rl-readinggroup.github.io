@@ -1,0 +1,17 @@
+Dear colleagues,
+
+You are invited to the ..... session of our Reinforcement Learning & MARL Reading Group.
+
+Topic: ............
+Speaker: ............
+When: ............, 11:30 (Madrid time)
+Where: ............
+
+Abstract:
+............
+
+The session will be recorded and uploaded, and attendees will receive access to the slides afterwards.
+
+We hope to see you there.
+
+— The RL Reading Group Team
