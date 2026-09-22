@@ -27,6 +27,7 @@ Materials from past reading group sessions will appear here as the group progres
 ## Additional Resources
 
 ### 📖 Core Textbooks & References
+- [Reinforcement Learning: An Overview (Kevin P. Murphy)](https://arxiv.org/abs/2412.05265) — Our core reading group roadmap
 - [Reinforcement Learning: An Introduction (Sutton & Barto)](http://incompleteideas.net/book/the-book-2nd.html) — The foundational RL textbook
 - [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/) — Comprehensive MARL reference
 

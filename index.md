@@ -16,27 +16,38 @@ A reading group focused on Reinforcement Learning, MARL, and sequential decision
 
 Welcome to the Reinforcement Learning (RL) and Multi-Agent RL (MARL) Reading Group. Building upon our foundational journey through Probabilistic Machine Learning, this group explores the mathematical frameworks, core algorithms, and cutting-edge frontiers of sequential decision-making.
 
+We will mainly follow **Kevin P. Murphy's "Reinforcement Learning: An Overview"**, which serves as our core roadmap for most sessions.
+
 {: .note }
-> **Note:** The following blocks represent our general roadmap. This is a tentative programme; specific papers and the number of sessions per block are highly flexible and subject to change based on the group's pacing and research interests.
+> **Note:** The following blocks represent our 12-session roadmap. This is a tentative programme; specific papers and the pacing are highly flexible and subject to change based on the group's research interests.
 
 ---
 
 ## Syllabus Roadmap
 
-### Block 1: Foundations of RL 
-The core of sequential decision-making. We will cover Markov Decision Processes (MDPs), Bellman Equations, dynamic programming, and tabular methods (SARSA, Q-learning) to understand the fundamental temporal credit assignment problem.
+### Block 1: Foundations
+* **Session 1: Introduction to RL** — MDPs, returns, and Bellman equations (Ch. 1 & §2.1)
 
-### Block 2: Policy Optimization & Continuous Control
-Transitioning from discrete value tables to deep neural networks. We will explore Policy Gradients, REINFORCE, Actor-Critic architectures, and Proximal Policy Optimization (PPO), alongside entropy-regularized methods like Soft Actor-Critic (SAC).
+### Block 2: Value-Based Methods
+* **Session 2: DP, Monte Carlo & SARSA** — Temporal Difference learning and eligibility traces (§§2.2-2.4)
+* **Session 3: Deep Q-Learning** — DQN, experience replay, and extensions (§2.5)
 
-### Block 3: Model-Based & Generative Frameworks
-Why learn strictly by trial-and-error when an agent can "dream"? This block focuses on Generative World Models, Latent Dynamics, and Bayesian approaches to RL, where agents learn to simulate their environments to plan and explore efficiently.
+### Block 3: Policy-Based Methods
+* **Session 4: Policy Gradients & Actor-Critic** — REINFORCE, baseline variance reduction, and DPG (§§3.1-3.2)
+* **Session 5: PPO & RL as Inference** — Trust regions, MaxEnt RL, and SAC (§§3.3-3.4, §3.6)
 
-### Block 4: Multi-Agent Reinforcement Learning (MARL)
-Scaling up to multiple interacting agents. We will delve into Stochastic Games, the non-stationarity barrier, and the Centralized Training with Decentralized Execution (CTDE) paradigm driving modern multi-agent coordination.
+### Block 4: Model-Based RL
+* **Session 6: Online Planning & MPC** — MCTS and trajectory optimization (§§4.1-4.2)
+* **Session 7: World Models & Dyna** — Latent dynamics and predictive representations (§§4.3-4.5)
 
-### Block 5: RLHF, Foundation Models, & Active Learning
-Exploring how RL powers today's state-of-the-art AI. This block will cover Reinforcement Learning from Human Feedback (RLHF), reward modeling, scalable reasoning algorithms, and how RL agents can actively learn and gather data in complex environments.
+### Block 5: Broader RL Topics
+* **Session 8: Multi-Agent RL** — Stochastic games, Nash equilibria, and CTDE (Ch. 5)
+* **Session 9: LLMs & RL** — RL fine-tuning, PPO/DPO, and reasoning agents (Ch. 6)
+* **Session 10: Bayesian RL & Exploration** — Thompson sampling, UCB, and intrinsic motivation (Ch. 7)
+
+### Block 6: Research Extensions
+* **Session 11: Partial Observability & Sequence Models** — Memory, POMDPs, and S4/Mamba (Selected Ch. 1 & Papers)
+* **Session 12: Adversarial Risk Analysis** — Robust RL, opponent modeling, and ARA (External Papers)
 
 ---
 
