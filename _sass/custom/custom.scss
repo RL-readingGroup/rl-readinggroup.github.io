@@ -101,19 +101,6 @@ $rl-text-muted: #64748b;
   padding: 1rem 1rem 0.5rem !important;
   text-align: center;
   color: #ffffff !important;
-  
-  &::after {
-    content: "";
-    display: block;
-    width: 150px;
-    height: 150px;
-    background-image: url('../images/rl-robot-logo.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    margin-top: 1rem;
-    border-radius: 8px;
-  }
 }
 
 // Make sure logo and title are both in the header
