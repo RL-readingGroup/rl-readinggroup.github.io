@@ -101,6 +101,10 @@ $rl-text-muted: #64748b;
   padding: 1rem 1rem 0.5rem !important;
   text-align: center;
   color: #ffffff !important;
+  
+  &:hover, &:visited, &:active {
+    color: #ffffff !important;
+  }
 }
 
 // Make sure logo and title are both in the header
