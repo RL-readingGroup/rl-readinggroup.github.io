@@ -102,18 +102,17 @@ $rl-text-muted: #64748b;
   text-align: center;
   color: #ffffff !important;
   
-  &::before {
+  &::after {
     content: "";
     display: block;
     width: 150px;
     height: 150px;
-    background-image: url('../images/rl-robot-logo.jpg');
+    background-image: url('../images/rl-robot-logo.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    margin-bottom: 1rem;
+    margin-top: 1rem;
     border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
   }
 }
 
