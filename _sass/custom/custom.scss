@@ -80,14 +80,18 @@ $rl-text-muted: #64748b;
   }
 }
 
-// Style the logo - make it display and look good
-.site-logo {
-  max-width: 80% !important;
-  height: auto !important;
-  margin: 1rem auto !important;
-  display: block !important;
-  border-radius: 4px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+// Hide leftover logo images and inject text as fallback if Jekyll hasn't been restarted
+.site-title {
+  img {
+    display: none !important;
+  }
+  
+  &:has(img)::after {
+    content: "RL reading group";
+    display: block;
+    color: #ffffff;
+    font-weight: bold;
+  }
 }
 
 // Keep the site title visible even with logo
