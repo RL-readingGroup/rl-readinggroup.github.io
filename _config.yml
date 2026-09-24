@@ -3,8 +3,8 @@ description: "A reading group focused on Reinforcement Learning, MARL, and seque
 url: "https://rl-readinggroup.github.io"
 remote_theme: just-the-docs/just-the-docs
 
-# Logo
-logo: "/assets/images/rl-robot-logo.jpg"
+# Logo - custom CSS handles logo to keep title visible
+# logo: "assets/images/rl-robot-logo.jpg"
 
 plugins:
   - jekyll-remote-theme

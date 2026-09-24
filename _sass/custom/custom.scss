@@ -92,13 +92,29 @@ $rl-text-muted: #64748b;
 
 // Keep the site title visible even with logo
 .site-title {
-  display: block !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
   visibility: visible !important;
   font-size: 16px !important;
   line-height: 1.3;
   padding: 1rem 1rem 0.5rem !important;
   text-align: center;
   color: #ffffff !important;
+  
+  &::before {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 150px;
+    background-image: url('/assets/images/rl-robot-logo.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  }
 }
 
 // Make sure logo and title are both in the header
