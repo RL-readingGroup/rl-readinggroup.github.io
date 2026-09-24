@@ -3,10 +3,10 @@ title: Home
 nav_order: 1
 ---
 
-# Reinforcement Learning & MARL Reading Group
+# Reinforcement Learning Reading Group
 {: .fs-9 }
 
-A reading group focused on Reinforcement Learning, MARL, and sequential decision-making.
+A RG focused on Reinforcement Learning, MARL, and sequential decision-making.
 {: .fs-6 .fw-300 }
 
 [Join Us](/join){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
