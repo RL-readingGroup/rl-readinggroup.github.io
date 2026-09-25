@@ -264,7 +264,7 @@ table {
 .site-footer {
   margin-top: 4rem;
   padding-top: 2rem;
-  border-top: 1px solid $rl-border;
+  border-top: none !important;
 }
 
 // Improve button spacing
