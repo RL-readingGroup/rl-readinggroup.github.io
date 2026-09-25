@@ -80,36 +80,35 @@ $rl-text-muted: #64748b;
   }
 }
 
-// Hide leftover logo images and inject text as fallback if Jekyll hasn't been restarted
+// Completely hide the default interactive site title and any rogue images
 .site-title {
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: center !important;
-  visibility: visible !important;
-  font-size: 0 !important; // Hide original text or alt text
-  line-height: 1.3;
-  padding: 1rem 1rem 0.5rem !important;
-  text-align: center;
-  color: transparent !important;
-  
-  img {
-    display: none !important;
-  }
-  
-  &::after {
-    content: "RL reading group";
-    display: block;
-    font-size: 16px !important;
-    color: #ffffff !important;
-    font-weight: 600;
-  }
+  display: none !important;
 }
 
-// Make sure logo and title are both in the header
+// Inject the new non-interactive, bigger title into the site-header
 .site-header {
   display: flex !important;
   flex-direction: column !important;
   align-items: center !important;
+  border: none !important; // Remove any default border
+  padding-bottom: 0 !important;
+  
+  &::after {
+    content: "RL reading group";
+    display: block;
+    color: #ffffff !important;
+    font-size: 22px !important;
+    font-weight: 600;
+    padding: 1.5rem 1rem 1rem 1rem;
+    text-align: center;
+    width: 100%;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  }
+}
+
+// Remove the default line below the navigation (which was above the picture)
+.site-nav {
+  border-bottom: none !important;
 }
 
 // Make the main header (search bar area) span full width of content area, not sidebar
