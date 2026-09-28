@@ -21,11 +21,11 @@ Sessions will be announced soon. [Join our Discord](/join) for meeting links and
 
 | Date | Topic | Presenter |
 | ---- | ----- | --------- |
-| Oct 21 | Introduction to RL (MDPs, returns, and Bellman equations) | [Mario Chacón-Falcón](https://mchacon28.github.io) |
-| Nov 4  | DP, Monte Carlo & SARSA | [David Ríos Insua](https://www.davidriosinsua.es) |
-| TBD  | Deep Q-Learning & Extensions | TBD |
-| TBD  | Policy Gradients & Actor-Critic | TBD |
-| TBD  | PPO & RL as Inference | TBD |
+| Oct 21, 2026 | Introduction to RL (MDPs, returns, and Bellman equations) | [Mario Chacón-Falcón](https://mchacon28.github.io) |
+| Nov 4, 2026  | DP, Monte Carlo & SARSA | [David Ríos Insua](https://www.davidriosinsua.es) |
+| Nov 18, 2026  | Deep Q-Learning & Extensions | TBD |
+| Dec 2, 2026  | Policy Gradients & Actor-Critic | TBD |
+| Dec 16, 2026 | PPO & RL as Inference | TBD |
 | TBD  | Online Planning & MPC | TBD |
 | TBD  | World Models & Dyna | TBD |
 | TBD  | Multi-Agent RL | TBD |
