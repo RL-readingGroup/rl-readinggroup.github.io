@@ -28,7 +28,7 @@ Sessions will be announced soon. [Join our Discord](/join) for meeting links and
 | Dec 16, 2026 | PPO & RL as Inference | TBD |
 | TBD  | Online Planning & MPC | TBD |
 | TBD  | World Models & Dyna | TBD |
-| TBD  | Multi-Agent RL | TBD |
+| TBD  | Multi-Agent RL | [Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ&hl=en) |
 | TBD  | LLMs & RL | TBD |
 | TBD  | Bayesian RL & Exploration | TBD |
 | TBD  | Partial Observability & Sequence Models | TBD |
