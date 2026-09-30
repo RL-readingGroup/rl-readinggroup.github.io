@@ -51,7 +51,7 @@ We're always looking for presenters! Whether you want to cover a core RL topic, 
 [Submit Talk Proposal →](#){: .btn .btn-green }
 
 {: .highlight }
-**First-time presenters are especially encouraged!** We provide support.
+**First-time presenters are especially encouraged!**
 
 ---
 
