@@ -27,7 +27,7 @@ Sessions will be announced soon. [Join our Discord](/join) for meeting links and
 | Dec 2, 2026  | Policy Gradients & Actor-Critic | TBD |
 | Dec 16, 2026 | PPO & RL as Inference | TBD |
 | TBD  | Online Planning & MPC | [Alberto Torrejón](https://www.torrejonvalenzuela.net/) |
-| TBD  | World Models & Dyna | TBD |
+| TBD  | World Models & Dyna | [JA Rodriguez-Aguilar](https://jariiia.github.io/) |
 | TBD  | Multi-Agent RL | [Si Liu](https://scholar.google.com/citations?user=IMx56DwAAAAJ&hl=en) |
 | TBD  | LLMs & RL | TBD |
 | TBD  | Bayesian RL & Exploration | TBD |
