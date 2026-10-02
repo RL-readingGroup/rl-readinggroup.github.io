@@ -31,7 +31,7 @@ Sessions will be announced soon. [Join our Discord](/join) for meeting links and
 | TBD  | Multi-Agent RL | [Si Liu](https://scholar.google.com/citations?user=IMx56DwAAAAJ&hl=en) |
 | TBD  | LLMs & RL | TBD |
 | TBD  | Bayesian RL & Exploration | TBD |
-| TBD  | Partial Observability & Sequence Models | TBD |
+| TBD  | Partial Observability & Sequence Models | [Miguel Santos Pascual](https://miguelsantpasc.github.io/) |
 | TBD  | Adversarial Risk Analysis | TBD |
 
 Want to present? [Suggest a talk](/join) — we'd love to hear from you!
