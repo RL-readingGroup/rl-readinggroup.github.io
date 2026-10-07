@@ -19,35 +19,32 @@ Welcome to the Reinforcement Learning (RL) and Multi-Agent RL (MARL) Reading Gro
 We will mainly follow **Kevin P. Murphy's "Reinforcement Learning: An Overview"**, which serves as our core roadmap for most sessions.
 
 {: .note }
-> **Note:** The following blocks represent our 12-session roadmap. This is a tentative programme; specific papers and the pacing are highly flexible and subject to change based on the group's research interests.
+> **Note:** The following blocks represent our 11-session roadmap. This is a tentative programme; specific papers and the pacing are highly flexible and subject to change based on the group's research interests.
 
 ---
 
 ## Syllabus Roadmap
 
-### Block 1: Foundations
-* **Session 1: Introduction to RL** — MDPs, returns, and Bellman equations (Ch. 1 & §2.1)
+### Block 1: Foundations & Classical Value-Based Methods
+* **Session 1: Introduction to RL & Value-Based Foundations** — MDPs, returns, Bellman equations, DP, Monte Carlo & SARSA (Ch. 1 & §§2.1-2.4)
+* **Session 2: Deep Q-Learning** — DQN, experience replay, and extensions (§2.5)
 
-### Block 2: Value-Based Methods
-* **Session 2: DP, Monte Carlo & SARSA** — Temporal Difference learning and eligibility traces (§§2.2-2.4)
-* **Session 3: Deep Q-Learning** — DQN, experience replay, and extensions (§2.5)
+### Block 2: Policy-Based Methods
+* **Session 3: Policy Gradients & Actor-Critic** — REINFORCE, baseline variance reduction, and DPG (§§3.1-3.2)
+* **Session 4: PPO & RL as Inference** — Trust regions, MaxEnt RL, and SAC (§§3.3-3.4, §3.6)
 
-### Block 3: Policy-Based Methods
-* **Session 4: Policy Gradients & Actor-Critic** — REINFORCE, baseline variance reduction, and DPG (§§3.1-3.2)
-* **Session 5: PPO & RL as Inference** — Trust regions, MaxEnt RL, and SAC (§§3.3-3.4, §3.6)
+### Block 3: Model-Based RL
+* **Session 5: Online Planning & MPC** — MCTS and trajectory optimization (§§4.1-4.2)
+* **Session 6: World Models & Dyna** — Latent dynamics and predictive representations (§§4.3-4.5)
 
-### Block 4: Model-Based RL
-* **Session 6: Online Planning & MPC** — MCTS and trajectory optimization (§§4.1-4.2)
-* **Session 7: World Models & Dyna** — Latent dynamics and predictive representations (§§4.3-4.5)
+### Block 4: Broader RL Topics
+* **Session 7: Multi-Agent RL** — Stochastic games, Nash equilibria, and CTDE (Ch. 5)
+* **Session 8: LLMs & RL** — RL fine-tuning, PPO/DPO, and reasoning agents (Ch. 6)
+* **Session 9: Bayesian RL & Exploration** — Thompson sampling, UCB, and intrinsic motivation (Ch. 7)
 
-### Block 5: Broader RL Topics
-* **Session 8: Multi-Agent RL** — Stochastic games, Nash equilibria, and CTDE (Ch. 5)
-* **Session 9: LLMs & RL** — RL fine-tuning, PPO/DPO, and reasoning agents (Ch. 6)
-* **Session 10: Bayesian RL & Exploration** — Thompson sampling, UCB, and intrinsic motivation (Ch. 7)
-
-### Block 6: Research Extensions
-* **Session 11: Partial Observability & Sequence Models** — Memory, POMDPs, and S4/Mamba (Selected Ch. 1 & Papers)
-* **Session 12: Adversarial Risk Analysis** — Robust RL, opponent modeling, and ARA (External Papers)
+### Block 5: Research Extensions
+* **Session 10: Partial Observability & Sequence Models** — Memory, POMDPs, and S4/Mamba (Selected Ch. 1 & Papers)
+* **Session 11: Adversarial Risk Analysis** — Robust RL, opponent modeling, and ARA (External Papers)
 
 ---
 
