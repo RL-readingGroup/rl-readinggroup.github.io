@@ -23,12 +23,11 @@ Sessions will be announced soon. [Join our Discord](/join) for meeting links and
 | ---- | ----- | --------- |
 | Nov 4, 2026 | Introduction to RL & Value-Based Methods (MDPs, Bellman Equations, DP, Monte Carlo & SARSA) | [Mario Chacón-Falcón](https://mchacon28.github.io) |
 | Nov 18, 2026  | Deep Q-Learning & Extensions | [Daniel Corrales](https://danielcorralesalonso.github.io/index.html) |
-| Dec 2, 2026  | Policy Gradients & Actor-Critic | TBD |
-| Dec 16, 2026 | PPO & RL as Inference | TBD |
+| Dec 2, 2026  | Policy Gradients, PPO & RL as Inference | TBD |
+| TBD  | LLMs & RL | TBD |
 | TBD  | Online Planning & MPC | [Alberto Torrejón](https://www.torrejonvalenzuela.net/) |
 | TBD  | World Models & Dyna | [JA Rodriguez-Aguilar](https://jariiia.github.io/) |
 | TBD  | Multi-Agent RL | [Si Liu](https://scholar.google.com/citations?user=IMx56DwAAAAJ&hl=en) |
-| TBD  | LLMs & RL | TBD |
 | TBD  | Bayesian RL & Exploration | TBD |
 | TBD  | Partial Observability & Sequence Models | [Miguel Santos Pascual](https://miguelsantpasc.github.io/) |
 | TBD  | Adversarial Risk Analysis | TBD |
