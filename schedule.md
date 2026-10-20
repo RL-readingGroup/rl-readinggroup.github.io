@@ -21,7 +21,7 @@ Sessions will be announced soon. [Join our Discord](/join) for meeting links and
 
 | Date | Topic | Presenter |
 | ---- | ----- | --------- |
-| Nov 11, 2026 | Introduction to RL & Value-Based Methods (MDPs, Bellman Equations, DP, Monte Carlo & SARSA) | [Mario Chacón-Falcón](https://mchacon28.github.io) |
+| Nov 10, 2026 | Introduction to RL & Value-Based Methods (MDPs, Bellman Equations, DP, Monte Carlo & SARSA) | [Mario Chacón-Falcón](https://mchacon28.github.io) |
 | Nov 25, 2026  | Deep Q-Learning & Extensions | [Daniel Corrales](https://danielcorralesalonso.github.io/index.html) |
 | Dec 9, 2026  | Policy Gradients & PPO | [Pablo G. Arce](https://pablogarciarce.github.io/) |
 | TBD  | RL as Inference | TBD |
