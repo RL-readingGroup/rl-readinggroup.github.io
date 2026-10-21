@@ -26,6 +26,7 @@ Sessions will be announced soon. [Join our Discord](/join) for meeting links and
 | Dec 9, 2026  | Policy Gradients & PPO | [Pablo G. Arce](https://pablogarciarce.github.io/) |
 | TBD  | RL as Inference | TBD |
 | TBD  | LLMs & RL | TBD |
+| TBD  | Multi-Objective RL (MORL) | TBD |
 | TBD  | Online Planning & MPC | [Alberto Torrejón](https://www.torrejonvalenzuela.net/) |
 | TBD  | World Models & Dyna | [JA Rodriguez-Aguilar](https://jariiia.github.io/) |
 | TBD  | Multi-Agent RL | [Si Liu](https://scholar.google.com/citations?user=IMx56DwAAAAJ&hl=en) |
