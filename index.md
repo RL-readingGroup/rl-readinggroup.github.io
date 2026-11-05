@@ -6,7 +6,7 @@ nav_order: 1
 # Reinforcement Learning Reading Group
 {: .fs-9 }
 
-A RG focused on Reinforcement Learning, MARL, and sequential decision-making.
+A RG focused on Reinforcement Learning and sequential decision-making.
 {: .fs-6 .fw-300 }
 
 [Join Us](/join){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -14,37 +14,39 @@ A RG focused on Reinforcement Learning, MARL, and sequential decision-making.
 
 ---
 
-Welcome to the Reinforcement Learning (RL) and Multi-Agent RL (MARL) Reading Group. Building upon our foundational journey through Probabilistic Machine Learning, this group explores the mathematical frameworks, core algorithms, and cutting-edge frontiers of sequential decision-making.
+Welcome to the Reinforcement Learning (RL) Reading Group. Building upon our foundational journey through Probabilistic Machine Learning, this group explores the mathematical frameworks, core algorithms, and cutting-edge frontiers of sequential decision-making.
 
 We will mainly follow **Kevin P. Murphy's "Reinforcement Learning: An Overview"**, which serves as our core roadmap for most sessions.
 
 {: .note }
-> **Note:** The following blocks represent our 12-session roadmap. This is a tentative programme; specific papers and the pacing are highly flexible and subject to change based on the group's research interests.
+> **Note:** Our 12 sessions are grouped by theme below; session numbers give the order in which they take place (see the [Schedule](/schedule)). This is a tentative programme; specific papers and the pacing are highly flexible and subject to change based on the group's research interests.
 
 ---
 
 ## Syllabus Roadmap
 
-### Block 1: Foundations & Classical Value-Based Methods
+### Value-Based Methods
 * **Session 1: Introduction to RL & Value-Based Foundations** — MDPs, returns, Bellman equations, DP, Monte Carlo & SARSA (Ch. 1 & §§2.1-2.4)
 * **Session 2: Deep Q-Learning** — DQN, experience replay, and extensions (§2.5)
 
-### Block 2: Policy-Based Methods
+### Policy-Based Methods
 * **Session 3: Policy Gradients & PPO** — REINFORCE, Actor-Critic, and Trust regions (§3.1-3.3)
 * **Session 4: RL as Inference** — MaxEnt RL and SAC (§3.4, §3.6)
-* **Session 5: LLMs & RL** — RL fine-tuning, PPO/DPO, and reasoning agents (Ch. 6)
-* **Session 6: Multi-Objective RL (MORL)** — Vector rewards, Pareto optimality, and scalarization (External Papers)
 
-### Block 3: Model-Based RL
+### RL for Language Models
+* **Session 5: LLMs & RL** — RL fine-tuning, PPO/DPO, and reasoning agents (Ch. 6)
+
+### Model-Based RL
 * **Session 7: Online Planning & MPC** — MCTS and trajectory optimization (§§4.1-4.2)
 * **Session 8: World Models & Dyna** — Latent dynamics and predictive representations (§§4.3-4.5)
 
-### Block 4: Broader RL Topics
-* **Session 9: Multi-Agent RL** — Stochastic games, Nash equilibria, and CTDE (Ch. 5)
+### Uncertainty & Partial Observability
 * **Session 10: Bayesian RL & Exploration** — Thompson sampling, UCB, and intrinsic motivation (Ch. 7)
-
-### Block 5: Research Extensions
 * **Session 11: Partial Observability & Sequence Models** — Memory, POMDPs, and S4/Mamba (Selected Ch. 1 & Papers)
+
+### Other Topics
+* **Session 6: Multi-Objective RL (MORL)** — Vector rewards, Pareto optimality, and scalarization (External Papers)
+* **Session 9: Multi-Agent RL** — Stochastic games, Nash equilibria, and CTDE (Ch. 5)
 * **Session 12: Adversarial Risk Analysis** — Robust RL, opponent modeling, and ARA (External Papers)
 
 ---

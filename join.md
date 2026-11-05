@@ -6,7 +6,7 @@ nav_order: 4
 # 🙌 Join the Reading Group
 {: .no_toc }
 
-We welcome anyone interested in Reinforcement Learning and MARL — regardless of your experience level!
+We welcome anyone interested in Reinforcement Learning — regardless of your experience level!
 {: .fs-6 .fw-300 }
 
 ## Table of Contents
