@@ -14,7 +14,7 @@ A RG focused on Reinforcement Learning and sequential decision-making.
 
 ---
 
-Welcome to the Reinforcement Learning (RL) Reading Group. Building upon our foundational journey through Probabilistic Machine Learning, this group explores the mathematical frameworks, core algorithms, and cutting-edge frontiers of sequential decision-making.
+Welcome to the Reinforcement Learning (RL) Reading Group. This group explores the mathematical frameworks, core algorithms, and cutting-edge frontiers of sequential decision-making.
 
 We will mainly follow **Kevin P. Murphy's "Reinforcement Learning: An Overview"**, which serves as our core roadmap for most sessions.
 
