@@ -16,11 +16,11 @@ nav_order: 3
 
 ## Previous Sessions
 
-Materials from past reading group sessions will appear here as the group progresses.
+Slides and recordings of past sessions are listed below.
 
 | Date | Topic | Presenter | Materials |
 |------|-------|-----------|-----------|
-| —    | —     | —         | —         |
+| 10/11/2026 | Introduction to RL & Value-Based Foundations | Mario Chacón-Falcón | [📊 slides](https://rl-readinggroup.github.io/assets/slides/RL1.pdf) · [🎥 video](https://youtu.be/4iNQiqC3REs) |
 
 ---
 
